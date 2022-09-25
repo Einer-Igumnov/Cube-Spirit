@@ -1,6 +1,6 @@
 # cube_spirit
 
-A new Flutter project.
+A Web App for speedcubers
 
 ## Getting Started
 
